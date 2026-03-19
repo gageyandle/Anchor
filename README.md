@@ -69,7 +69,7 @@ Anchor/
 
 ## Roadmap
 
-### MVP (current)
+### MVP
 - [x] 3-priority cap enforced in UI and data layer
 - [x] Pomodoro focus timer with pause/resume
 - [ ] End-of-day reflection with local persistence
