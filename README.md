@@ -65,8 +65,6 @@ Anchor/
 3. Replace the generated files with the files in `Anchor/`
 4. Press **⌘R** to build and run
 
-No API keys, no accounts, no external dependencies.
-
 ---
 
 ## Roadmap
@@ -74,13 +72,13 @@ No API keys, no accounts, no external dependencies.
 ### MVP (current)
 - [x] 3-priority cap enforced in UI and data layer
 - [x] Pomodoro focus timer with pause/resume
-- [x] End-of-day reflection with local persistence
+- [ ] End-of-day reflection with local persistence
 - [x] SwiftData on-device storage
 
 ### Phase 2
 - [ ] Local notifications morning prompt + evening reflection reminder
 - [ ] Home screen widget show today's 3 priorities
-- [ ] ScreenTime / FamilyControls API actual app blocking during focus sessions *(requires Apple entitlement — apply early)*
+- [ ] ScreenTime / FamilyControls API actual app blocking during focus sessions *(requires Apple entitlement)*
 - [ ] Live Activities focus timer on lock screen / Dynamic Island
 
 ### Phase 3
