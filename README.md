@@ -100,7 +100,7 @@ Anchor/
 
 ## Learning Resources
 
-- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - free, structured, the best place to start
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [SwiftData documentation](https://developer.apple.com/documentation/swiftdata)
 - [Meet SwiftData - WWDC23](https://developer.apple.com/videos/play/wwdc2023/10187/)
-- [Swift by Sundell](https://www.swiftbysundell.com) - deeper dives once you have the basics
+- [Swift by Sundell](https://www.swiftbysundell.com)
